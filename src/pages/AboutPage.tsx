@@ -68,6 +68,7 @@ export default function AboutPage() {
 
         <StatsSection />
         <CoreValuesSection />
+        <CurriculumSection />
         <WhyChooseUs />
       </div>
       <Footer />
