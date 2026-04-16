@@ -3,6 +3,7 @@ import { Footer } from "@/components/brainchild/Footer";
 import { AnimatedSection } from "@/components/brainchild/AnimatedSection";
 import { WhyChooseUs } from "@/components/brainchild/WhyChooseUs";
 import { CoreValuesSection } from "@/components/brainchild/CoreValuesSection";
+import { CurriculumSection } from "@/components/brainchild/CurriculumSection";
 import { StatsSection } from "@/components/brainchild/StatsSection";
 import principalImg from "@/assets/ijeoma.jpeg";
 import { MdFormatQuote } from "react-icons/md";
